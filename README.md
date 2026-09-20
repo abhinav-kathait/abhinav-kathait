@@ -1,82 +1,206 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?<br><br>ABHINAV   THIS   SIDE</h1>
+<div align="center">
 
-###
+# ⚡ ABHINAV KATHAIT
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+### Java Full Stack Developer | MERN | GenAI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Building+Modern+Web+Applications;Spring+Boot+%7C+MERN+%7C+GenAI;Turning+Ideas+Into+Real+Products;Code.+Create.+Innovate." alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/abhinav-kathait">
+<img src="https://komarev.com/ghpvc/?username=abhinav-kathait&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+</a>
+
 </div>
 
-###
+---
 
+## 👨‍💻 About Me
+
+I'm **Abhinav Kathait**, a developer focused on building scalable web applications, backend systems and AI-powered products.
+
+* 💻 Java Full Stack Development
+* 🌐 MERN Stack
+* ☕ Java & Spring Boot
+* 🤖 Generative AI & RAG
+* 🧠 Data Structures & Algorithms
+* 🎨 Three.js & GSAP
+* 🚀 Always building something new
+
+```text
+BUILD → LEARN → BREAK → DEBUG → IMPROVE → REPEAT 🚀
+```
+
+---
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinav-kathait/abhinav-kathait/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinav-kathait/abhinav-kathait/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhinav-kathait/abhinav-kathait/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+## 🛠️ Tech Stack
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/abhinav-kathait-ba9667309/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/919953479419" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+
+### Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,spring" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+
+### AI / Tools
+
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,postman,idea,vscode,linux" />
+
+<br>
+
+<img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinav-kathait&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/abhinav-kathait/abhinav-kathait/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+# 🚀 Featured Projects
+
+<div align="center">
+
+|           Project          |     Technology     | Description                                           |
+| :------------------------: | :----------------: | :---------------------------------------------------- |
+|      💼 **Job Portal**     |        MERN        | Full-stack platform for candidates & recruiters       |
+|   🏦 **Digital Banking**   | Java + Spring Boot | Banking system with secure transactions & REST APIs   |
+|    💰 **Money Manager**    |        Java        | Income, expense & personal finance management         |
+| 🤖 **Document AI Chatbot** |     GenAI + RAG    | Ask questions and retrieve information from documents |
+
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/abhinav-kathait/abhinav-kathait/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/abhinav-kathait/abhinav-kathait/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+## 💼 Job Portal
+
+**MERN Stack**
+
+A full-stack recruitment platform connecting job seekers and recruiters.
+
+```text
+React → Node.js → Express → MongoDB
+```
+
+**Features**
+
+`Authentication` `Job Search` `Applications` `Recruiter Dashboard` `User Profiles`
+
+---
+
+## 🏦 Digital Banking System
+
+**Java + Spring Boot**
+
+A backend-focused banking application for managing accounts and financial transactions.
+
+```text
+Java → Spring Boot → REST API → MySQL
+```
+
+**Features**
+
+`Account Management` `Transactions` `Authentication` `Balance` `Transaction History`
+
+---
+
+## 🤖 Document AI Chatbot
+
+**GenAI + RAG**
+
+An AI-powered document assistant that retrieves relevant information from uploaded documents and generates contextual answers.
+
+```text
+Documents
+     ↓
+Text Extraction
+     ↓
+Chunking
+     ↓
+Embeddings
+     ↓
+Vector Database
+     ↓
+Retriever
+     ↓
+LLM
+     ↓
+Answer
+```
+
+---
+
+
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=abhinav-kathait&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-kathait&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br><br>
+
+<img width="70%"
+src="https://streak-stats.demolab.com?user=abhinav-kathait&theme=tokyonight&hide_border=true&border_radius=12" />
+
 </div>
 
-###
+---
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhinav-kathait&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
 </div>
 
-###
+---
 
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abhinav-kathait-ba9667309/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wa.me/919953479419">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://github.com/abhinav-kathait">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
-###
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&theme=tokyonight" />
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
